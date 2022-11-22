@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366547335935",
+    "project_id": "authentication-43b57",
+    "storage_bucket": "authentication-43b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366547335935:android:620d217ef07efdeef4aaca",
+        "android_client_info": {
+          "package_name": "com.example.blinkpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366547335935-9tfp1unj6irbeijggdhte4l06d8f8giu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJMoEex7fC-qWUvC0B1CuRiwI71Nxnskc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366547335935-9tfp1unj6irbeijggdhte4l06d8f8giu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
